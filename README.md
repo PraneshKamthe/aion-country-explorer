@@ -124,13 +124,11 @@ The design follows mobile-first principles:
 - **Desktop**: 4+ column layouts with hover effects
 - **Breakpoints**: Tailored for optimal viewing at all screen sizes
 
-
 ## Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Create production build
 - `npm run start` - Start production server
-- `npm run lint` - Run ESLint
 
 ## Features in Detail
 
@@ -161,3 +159,7 @@ The design follows mobile-first principles:
 - Light and dark mode
 - Smooth transitions
 - Consistent color scheme
+
+### deployed Netlify URL:
+
+- [AION Country Explorer](https://aion-country-explorer.netlify.app/)
