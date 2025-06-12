@@ -160,6 +160,6 @@ The design follows mobile-first principles:
 - Smooth transitions
 - Consistent color scheme
 
-### deployed Netlify URL:
+### Deployed Netlify URL:
 
 - [AION Country Explorer](https://aion-country-explorer.netlify.app/)
